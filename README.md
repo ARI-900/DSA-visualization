@@ -1,4 +1,4 @@
-# 🌟 **Algo Visualization** 🌟
+# 🌟 **Algo Visualizer** 🌟
 
 ![sorting](https://github.com/user-attachments/assets/a6a51aaf-5c86-4960-9a0e-4a699b8c2c9d)
 
@@ -24,10 +24,8 @@ This project offers an engaging, animated experience to help you understand the 
   - [QuickSort](#quicksort-visualization)
   - [MergeSort](#mergesort-visualization)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [Author](#author)
-- [License](#license)
 
 ---
 
@@ -40,7 +38,7 @@ This project is designed to help you visually understand sorting algorithms. It 
 - **QuickSort**
 - **MergeSort** *(Coming Soon)*
 
-Future plans include extending the project to include graph traversal algorithms.
+**Future plans include extending the project to include graph traversal algorithms.**
 
 ---
 
@@ -109,10 +107,21 @@ classDiagram
 **Description:** Animates the BubbleSort process with real-time swapping.
 
 **Photo:**  
-<img src="./images/bubble_sort.png" alt="BubbleSort Visualization" width="400">
+
+![bubble](https://github.com/user-attachments/assets/5b4fe223-5023-4db8-bcb2-09dbf1f67c01)
+
+
+
 
 **Video:**  
-[BubbleSort Demo](./videos/bubble_sort_demo.mp4)
+
+
+https://github.com/user-attachments/assets/a8f78256-58ca-479d-839e-9f9601c4121a
+
+
+
+
+
 
 **How It Works:**
 - Array elements are shown as vertical bars.
