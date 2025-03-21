@@ -140,10 +140,19 @@ https://github.com/user-attachments/assets/a8f78256-58ca-479d-839e-9f9601c4121a
 **Description:** Illustrates the SelectionSort algorithm by highlighting the smallest element and swapping.
 
 **Photo:**  
-<img src="./images/selection_sort.png" alt="SelectionSort Visualization" width="400">
+![selection](https://github.com/user-attachments/assets/c2368069-baf1-49ee-9f13-ec07e83b745c)
+
+
+
 
 **Video:**  
-[SelectionSort Demo](./videos/selection_sort_demo.mp4)
+
+
+https://github.com/user-attachments/assets/6c2d05c4-0814-4b12-90fc-89c35256b403
+
+
+
+
 
 **How It Works:**
 - Array elements are represented as bars.
@@ -162,10 +171,19 @@ https://github.com/user-attachments/assets/a8f78256-58ca-479d-839e-9f9601c4121a
 **Description:** Demonstrates the InsertionSort process with shifting and repositioning of elements.
 
 **Photo:**  
-<img src="./images/insertion_sort.png" alt="InsertionSort Visualization" width="400">
+
+![insertion](https://github.com/user-attachments/assets/1805a89e-97b2-4015-a103-97b9a89b5a68)
+
+
 
 **Video:**  
-[InsertionSort Demo](./videos/insertion_sort_demo.mp4)
+
+
+https://github.com/user-attachments/assets/e84c2f15-5f3a-433b-9bb3-72377a4db25f
+
+
+
+
 
 **How It Works:**
 - Array elements are displayed as bars.
@@ -185,10 +203,16 @@ https://github.com/user-attachments/assets/a8f78256-58ca-479d-839e-9f9601c4121a
 **Description:** Shows the QuickSort process with pivot selection and partitioning.
 
 **Photo:**  
-<img src="./images/quick_sort.png" alt="QuickSort Visualization" width="400">
+![quick](https://github.com/user-attachments/assets/df2d3ad3-c63e-448b-bdfb-4f647e09673d)
+
 
 **Video:**  
-[QuickSort Demo](./videos/quick_sort_demo.mp4)
+
+
+https://github.com/user-attachments/assets/5e0f13c5-58a6-4c1e-8aaa-e45c5e33f62c
+
+
+
 
 **How It Works:**
 - Array elements are displayed as bars.
