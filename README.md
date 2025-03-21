@@ -187,3 +187,87 @@ classDiagram
 - The array is partitioned into elements less than and greater than the pivot.
 - Active comparisons and swaps are animated.
 - The process recurses until the array is fully sorted.
+
+
+#
+
+
+## Installation 🚀
+
+Follow these simple steps to get the project up and running:
+
+- **🔗 Clone the Repository**  
+    Open your terminal and run:
+  
+  ```cpp
+  git clone https://github.com/yourusername/SortingVisualization.git
+  cd SortingVisualization
+  ```
+
+- ***💻 Compile the Project**
+
+    Ensure you have a C++ compiler and the graphics library installed. Then, compile the project using:
+
+  ```cpp
+  g++ -o SortingVisualization main.cpp -lgraph
+  ```
+
+- ▶️ Run the Application
+
+     Launch the program with:
+
+    ```cpp
+    ./SortingVisualization
+    ```
+
+
+
+
+#
+
+### 🤝 **Contributing**
+##### I ❤️ contributions!
+
+
+### ***Want to contribute? Follow these simple steps:***
+
+
+- 🍴 Fork the Repository:
+    ```bash
+    Click the "Fork" button on GitHub to create your own copy.**
+    ```
+- 🌿 Create a Feature Branch:
+    ```bash
+    // Open your terminal and run: 
+    git checkout -b feature/YourFeature
+    ```
+- 💾 Commit Your Changes:
+    ```bash
+    // Stage your changes and add a meaningful commit message:
+    git commit -m "Add new feature"
+    ```
+- 📤 Push the Branch:
+    ```cpp
+    // Push your branch to GitHub:
+    git push origin feature/YourFeature
+    ```
+
+- 🔁 Open a Pull Request:
+    ```bash
+    Submit your changes for review.
+    ```
+
+
+---
+
+
+> ***✨ If you like the project, don't forget to give it a ⭐️!***
+
+
+
+## 💬 **Contact**
+##### 🧑‍💻 Author: Arijit Chowdhury
+##### 📧 Email: [arichowdhury900@gmail.com](mailto:arichowdhury900@gmail.com)
+##### 🌐 GitHub: ARI-900
+
+---
