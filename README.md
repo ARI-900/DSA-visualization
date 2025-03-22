@@ -38,7 +38,7 @@ This project is designed to help you visually understand sorting algorithms. It 
 - **QuickSort**
 - **MergeSort** *(Coming Soon)*
 
-**Future plans include extending the project to include graph traversal algorithms.**
+**Future plans include extending the project to cover graph traversal algorithms.**
 
 ---
 
