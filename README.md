@@ -9,7 +9,7 @@
 
 
 > **A visual learning platform for Sorting Algorithms in C++!**  
-This project offers an engaging, animated experience to help you understand the fundamental mechanics of various sorting algorithms. By leveraging C++ along with a graphics library, it transforms abstract algorithmic concepts into clear, step-by-step visual demonstrations. Whether you are a beginner exploring the basics of BubbleSort or an advanced learner delving into QuickSort partitioning, this project provides intuitive insights into how sorting works. Each module is designed to be modular and extensible, making it easy to integrate additional algorithms or enhance existing visualizations. Embrace the world of algorithms with a tool that is as educational as it is visually appealing!
+This project offers an engaging, animated experience to help you understand the fundamental mechanics of various sorting algorithms. By leveraging C++ along with a graphics, it transforms abstract algorithmic concepts into clear, step-by-step visual demonstrations. Whether you are a beginner exploring the basics of BubbleSort or an advanced learner delving into QuickSort partitioning, this project provides intuitive insights into how sorting works. Each module is designed to be modular and extensible, making it easy to integrate additional algorithms or enhance existing visualizations.
 
 
 ## 📖 **Table of Contents**
