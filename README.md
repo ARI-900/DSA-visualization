@@ -259,7 +259,7 @@ Follow these simple steps to get the project up and running:
 #
 
 ### 🤝 **Contributing**
-##### I ❤️ contributions!
+##### We ❤️ contributions!
 
 
 ### ***Want to contribute? Follow these simple steps:***
